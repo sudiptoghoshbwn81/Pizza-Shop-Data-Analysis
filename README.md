@@ -1,4 +1,4 @@
-# SQL Sales and Inventory Analysis Project
+# Pizza Shop Data Analysis (SQL)
 
 ## Project Overview
 This project demonstrates the use of SQL to analyze sales performance and inventory trends. SQL queries were developed using **Joins, Aggregate Functions, GROUP BY, and filtering techniques** to extract meaningful business insights from relational data.
